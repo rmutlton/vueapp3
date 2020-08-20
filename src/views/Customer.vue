@@ -1,12 +1,15 @@
 <template>
   <v-container>
-    เกี่ยวกับเรา
+    ลูกค้า
   </v-container>
 </template>
 
 <script>
-export default {};
+export default {
+
+}
 </script>
 
 <style>
+
 </style>
